@@ -31,5 +31,5 @@ Afterwards, `history-exec.bash` can be enabled and configured in your
 # Then configure and load this plugin.
 FZF_CTRL_R_EDIT_KEY=ctrl-e
 FZF_CTRL_R_EXEC_KEY=enter
-source ~/.fzf-plugins/history.bash
+source ~/.fzf-plugins/history-exec.bash
 ```
